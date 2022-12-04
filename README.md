@@ -28,6 +28,10 @@ An adult who has smoked 100 cigarettes in his or her lifetime and who currently 
 
 ## Program:
 ```
+Developed by:P.Ramsai
+reg.no:212221240041
+
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split, cross_val_score, RandomizedSearchCV
