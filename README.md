@@ -192,7 +192,11 @@ plt.show()
 
 ## Advantage :
 
+1.This report (The Health Benefits of Smoking Cessation) describes the associations between smoking cessation and changes in risk for specific disease outcomes. 
 
+2.It also addresses how cessation affects the natural history of various disease outcomes.
+
+3.such as by slowing the progression of underlying pathophysiological processes.
 
 ## Result:
 Thus the implementing of smoker prediction with medical cost is sucessfully done by using python code.
